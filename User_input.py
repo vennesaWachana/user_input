@@ -8,7 +8,7 @@ age = input("21 ")
 location = input("Nairobi ")
 
 # Create personalized message
-message = f"have an nice day stay postive"
+message =  "Hello [Alicia], you are [15] years old and live in [Nairobi]have an nice day stay postive"
 # Print out personalized message
 print(name)
 print(age)
